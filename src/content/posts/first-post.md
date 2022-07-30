@@ -4,6 +4,9 @@ title: First post!
 
 ## Hello world!
 
+I love mice, because I am a cat.
+
+
 With markdown, you can:
 - Create lists!
 - Have links!
