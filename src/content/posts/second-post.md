@@ -1,5 +1,5 @@
 ---
-title:Second Post!
+title: Second Post!
 ---
 # The Best Stories Ever Told
 
