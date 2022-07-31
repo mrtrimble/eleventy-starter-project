@@ -1,11 +1,11 @@
 ---
 layout: base.njk
-title: My Blog
+title: Vickie's Practice Site
 ---
 
-<h2>Posts</h2>
+<h2>Documentation</h2>
 <ul>
-{% for page in collections.posts %} 
+{% for page in collections.docs %} 
   <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
 {% endfor %}
 </ul>
