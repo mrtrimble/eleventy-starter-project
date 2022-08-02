@@ -25,11 +25,11 @@ title: Github Steps
 17. Under Source Control, if it’s listed as Untracked–right click and Stage changes OR in terminal use command below..
     - `git add .` for all files
     - `git add file-name` for specific files.
-18. Commit changes to branch→`git commit -am ‘message’`
-    - Stage changes
-    - Commit-Make sure to include message
-19. Push changes to Github→`git push origin head`
-    - Publish branch-to origin
+18. Commit changes to branch
+    - `git commit -am ‘message’`
+19. Push changes to Github
+    - `git push origin head`
+    - OR use Publish button to publish branch-to origin
 20. Go to github.
 21. Review changes.
 22. Create pr.
@@ -61,12 +61,14 @@ _(I don’t need to fork it, because it’s already in VS code. Forking and clon
 13. Under Source Control, if it’s listed as Untracked–right click and Stage changes OR in terminal use command below..
     - `git add .` for all files
     - `git add file-name` for specific files
-14. Commit changes to branch→`git commit -am ‘message’`
-15. Push changes to Github→`git push origin head`
-16. Publish branch-to origin
-17. Go to github.
-18. Review changes.
-19. Create pr.
-20. Someone will review and merge.
+14. Commit changes to branch
+    - `git commit -am ‘message’`
+15. Push changes to Github
+    - `git push origin head`
+    - OR use Publish button to publish branch-to origin
+16. Go to github.
+17. Review changes.
+18. Create pr.
+19. Someone will review and merge.
     - If you already created a PR and you make a change in VS then pushed to Github, you can just click Refresh in github and it will pull the changes automatically in the PR.
     - If you made changes and don’t want to commit them…go to source control and click Revert button to discard changes.
