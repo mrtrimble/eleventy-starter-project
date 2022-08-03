@@ -11,6 +11,7 @@ title: Color Token Contrast
 ## color-on-primary
   - `color-primary`
   - `color-error`
+  - `color-on-code`
   - `color-text`
 
 ## color-error
@@ -20,11 +21,22 @@ title: Color Token Contrast
 ## color-on-error
   - `color-primary`
   - `color-error`
+  - `color-on-code`
   - `color-text`
+
+## color-code
+  - `color-on-code`
+  - `color-text`
+
+## color-on-code
+  - `color-on-primary`
+  - `color-on-error`
+  - `color-code`
 
 ## color-text
   - `color-on-primary`
   - `color-on-error`
+  - `color-code`
   - `color-on-text`
 
 ## color-on-text
